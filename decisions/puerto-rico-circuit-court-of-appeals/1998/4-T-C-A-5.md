@@ -1,0 +1,36 @@
+---
+court: "Puerto Rico Circuit Court of Appeals"
+docket: "Núm. KLCE-97-1248"
+decided: "1998-03-18"
+citations: ["4 T.C.A. 5", "98 DTA 121"]
+reporter: "tca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Panel integrado por su Presidenta, la Juez Alfonso de Cumpiano y los Jueces Miranda De Hostos y Giménez Muñoz"]
+parties: ["MARIA M. BAUZO RAMOS; MICHAEL CRUZ REYES; HECTOR CANALES RODRIGUEZ POR SI Y EN REP. DE LA SOCIEDAD LEGAL DE GANS. CONSTITUIDA CON SYLVIA CRUZ REYES Demandantes-Recurridos v. ALFONSO TOMAS RODRIGUEZ, SU ESPOSA JUANA SANTIAGO VAZQUEZ Y LA SOCIEDAD LEGAL DE GANS. COMPUESTA POR ELLOS Demandados-Peticionarios NATIONWIDE INSURANCE COMPANY Interventora-Peticionaria"]
+source_url: "https://static.case.law/tca/4/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11517358
+cites_cases: ["100 D.P.R. 573", "112 D.P.R. 227", "116 D.P.R. 357", "123 D.P.R. 664", "128 D.P.R. 842"]
+---
+
+# Bauzo Ramos v. Tomas Rodriguez
+
+## Majority (Giménez Muñoz, Juez Ponente)
+
+Giménez Muñoz, Juez Ponente
+TEXTO COMPLETO DE LA RESOLUCION
+Recurren ante nos los demandados-peticionarios, Alfonso Tomás Rodríguez, su esposa Juana Santiago Vázquez y la Sociedad Legal de Gananciales compuesta por ellos, y Nationwide Insurance Company, solicitando la revisión de una resolución dictada por el Tribunal de Primera Instancia (Instancia) del 30 de octubre de 1997. En síntesis, alegan los peticionarios que erró Instancia al no desestimar una demanda en su contra, habiendo los demandantes recurridos incurrido en inacción e incuria extrema.
+I
+Brevemente, los hechos del caso son los siguientes. A causa de un accidente, ocurrido el 13 de julio de 1990, se radicó demanda contra los peticionarios el 25 de octubre de 1990. El 6 de noviembre de 1995, luego de varios trámites procesales, entre los cuales hubo varias conferencias sobre el estado de los procedimientos y el señalamiento de la fecha de la conferencia preliminar al juicio, el abogado de los demandantes informó que, a pesar de citar a sus representados a su oficina en dos ocasiones, estos no habían comparecido. Por tanto, la conferencia preliminar al juicio, que debió celebrarse ese día, se convirtió nuevamente en una conferencia sobre el estado de los procedimientos. Se reseñaló la conferencia preliminar al juicio para el 10 de mayo de 1996. En esa fecha el abogado de la parte demandante solicitó que lo relevaran de su representación legal, ya que no había logrado comunicarse con sus representados a pesar de haberlo intentado no sólo por correo ordinario, sino también por correo certificado.
+El 1ro. de agosto de 1996 se le notificó a los demandantes que se había permitido el relevo de la representación legal de su abogado y que tenían 30 días para anunciar nueva representación legal y reiterar su interés en la demanda, so pena de desestimación. A pesar de una moción de desestimación presentada por la parte demandada Instancia dictó orden para que se volviera a notificar a los demandantes la orden del 1ro. de agosto de 1996. Finalmente, el 5 de agosto de 1997, se notificó una orden a los demandantes para que mostraran causa por la cual no se debía desestimar su causa de acción, al amparo de la Regla 39.2 (b) de las de Procedimiento Civil, 32 L.P.R.A. Ap. Ill, R. 39.2. El 24 de agosto de 1997 comparecieron a Instancia los demandantes, con nueva representación legal y expresaron su interés en continuar con los procedimientos. Aclararon que por causa de haber tenido que abandonar la ciudad de San Juan habían perdido comunicación con su anterior abogado.
+Instancia, mediante resolución y orden a los demandantes del 21 de octubre, notificado el 23 de octubre y notificado una segunda ocasión el 30 de octubre de 1997, les advierte que desestimaría el caso de no depositar una sanción económica a favor de la parte demandada y otra a favor del Estado. De esa manera permitió que prosiguiera la demanda.
+Inconforme con dicha determinación, acude ante nos la parte demandada señalando que erró Instancia al negarse a desestimar el caso, en vista de la evidente inacción e incuria extrema de los demandantes.
+II
+Las Reglas de Procedimiento Civil, 32 L.P.R.A. Ap. III, permiten que una demanda sea desestimada por inacción de las partes. 32 L.P.R.A. Ap. Ill, R. 39.2. La característica fundamental de esta regla es que aun aceptando como ciertos todos los hechos alegados en la demanda, existe una razón mayor para desestimarla. Unisys v. Ramallo Brothers, 128 D.P.R. 842, 858 (1991). Ramos v. Marrero, 116 D.P.R. 357, 369 (1985). Esta medida se utiliza como sanción a las partes cuando demuestran, sin lugar a dudas, uña crasa falta de diligencia que no median circunstancias que atenúan la misma. Banco de la Vivienda v. Carlo Ortiz, 130 D.P.R. _ (1992), 92 J.T.S. 76. Además, se ha determinado que ante una moción para desestimar, la demanda se debe interpretar lo más liberalmente posible a favor del demandante. Candal v. CT Radiology Office, Inc., 112 D.P.R. 227, 231 (1982). Adicionalmente se ha dicho que existe una política judicial de que los casos se ventilen en sus méritos y que cuando los fines de la justicia lo exijan a menos que el reclamante no tenga derecho a remedio alguno, los tribunales deben darle oportunidad a la parte de dilucidar la controversia en sus méritos. Rivera Santana v. Superior Packaging, Inc., 132 D.P.R. _ (1992), 92 J.T.S. 165; Banco de la Vivienda v. Carlo Ortiz, 130 D.P.R. _ (1992), 92 J.T.S. 76; Soto López v. Colón Meléndez, 143 D.P.R. _ (1997), 97 J.T.S. 74.
+En el caso que nos ocupa, la parte peticionaria señala que la falta de trámite en el caso denota incuria de parte de los demandantes. Aunque es cierto que hubo alguna inactividad en los trámites efectuados en relación a la demanda, no quedó demostrado que hubiera una crasa indiferencia de la parte demandante hacia ella. La explicación ofrecida por la parte recurrida en este caso, por las cuales no pudo atender la demanda por un tiempo, le parecieron suficientes a Instancia.
+Es deber de todo tribunal, según lo ya expuesto, el permitir el ventilar la controversia en sus méritos. Por ello fue correcta la imposición de sanciones económicas a la parte, como remedio persuasivo, a los fines de lograr la tramitación diligente de la demanda. Después de todo, ante una situación de desatención al caso, la imposición de sanciones debe ser en primer término al abogado, después la desestimación, siempre que la parte haya sido debidamente informado o apercibido de la situación y las consecuencias. E. Jiménez v. Sucn. Pérez, 123 D.P.R. 664 (1989). Finalmente, en ausencia de manifestación de pasión, prejuicio, parcialidad o error manifiesto, un tribunal apelativo no debe intervenir con las determinaciones de Instancia. Mercado Rivera v. Universidad Católica de P.R., 143 D.P.R. _ (1997), 97 J.T.S. 106. Recuérdese que la privación a un litigante de su día en corte es una medida'procedente sólo en casos extremos. Moa v. E.L.A., 100 D.P.R. 573 (1972).
+III
+En virtud de todo lo anterior, se deniega la expedición del recurso.
+Lo acordó el Tribunal y lo certifica la Secretaria General.
+Aida I. Oquendo Graulau Secretaria General
