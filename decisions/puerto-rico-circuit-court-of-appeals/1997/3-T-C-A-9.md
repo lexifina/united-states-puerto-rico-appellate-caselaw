@@ -1,0 +1,60 @@
+---
+court: "Puerto Rico Circuit Court of Appeals"
+docket: "Núm. KLAN-95-01119; Núm. KLAN-95-01182"
+decided: "1997-04-30"
+citations: ["3 T.C.A. 9", "97 DTA 96"]
+reporter: "tca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Panel integrado por su presidenta, la Juez López Vilanova y los Jueces Cabán Castro y Fiol Matta López Vilanova, Juez Ponente"]
+parties: ["LA SOCIEDAD LEGAL DE GANANCIALES COMPUESTA POR NOELIA RIVERA Y LUIS M. PARRILLA Apelante v. LA SOCIEDAD LEGAL DE GANANCIALES COMPUESTA POR JAVIER REYES MULERO Y SOL MARIA VALDERRAMA COLON Apelados LA SOCIEDAD LEGAL DE GANANCIALES COMPUESTA POR NOELIA RIVERA Y LUIS M. PARRILLA Apelados LA SOCIEDAD LEGAL DE GANANCIALES COMPUESTA POR JAVIER REYES MULERO Y SOL MARIA VALDERRAMA COLON Apelantes"]
+source_url: "https://static.case.law/tca/3/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11517748
+cites_cases: ["114 D.P.R. 464"]
+---
+
+# Sociedad Legal de Gananciales v. Sociedad Legal de Gananciales
+
+## Majority
+
+TEXTO COMPLETO DE LA SENTENCIA
+I
+La controversia de estos casos consolidados se origina en una sucesión de eventos acontecidos el día 25 de octubre de 1993. En tal fecha Noelia Rivera-conducía su vehículo de motor por la carretera del Barrio Brazo Seco en la municipalidad de Naguabo. Al llegar a una curva de dicha carretera su carril fue invadido por el vehículo que conducía Javier Reyes Mulero, quien lo hacía a velocidad mayor de la que le permitía ejercer control del auto y quien venía en dirección contraria a la que transitaba Noelia Rivera.
+Como consecuencia de esto, el vehículo de Noelia Rivera fue impactado tan severamente que quedó en condiciones de pérdida total. Rivera sufrió golpes contundentes que han generado en una herida desfigurante en la frente, fuertes dolores de cabeza y deficiencias en su sistema nervioso. Su esposo, el señor Luis Parrilla, ha tenido que cuidar de ella y ha sufrido angustias y sufrimientos morales.
+Estos hechos condujeron a que la Sociedad Legal de Gananciales compuesta por Noelia Rivera y Luis Parrilla presentara demanda en daños y perjuicios contra la Sociedad Legal de Gananciales compuesta por Javier Reyes Mulero y su esposa, y a éste en su carácter personal, contra Comspec Unlimited, Inc. (alegado patrono de Reyes Mulero), contra Arcángel Soto Pérez y la Sociedad Legal de Gananciales constituida con su esposa (alegado titular registral del vehículo que impactó a Noelia Rivera) y contra la Compañía Aseguradora X. Esta demanda se presentó el 7 de marzo de 1994.
+II
+Luego de múltiples incidentes procesales y la celebración de una vista en su fondo, el Tribunal de Primera Instancia, Sala Superior de Humacao, dictó Sentencia el 28 de agosto de 1995. Determinó que no habiendo sido emplazado Arcángel Soto Pérez ni la Sociedad Legal de Gananciales constituida con su esposa se tenía a la parte demandante por desistida. Además, desestimó la demanda contra Comspec Unlimited, Inc. por fundamentos expuestos en una sentencia parcial anterior y condenó a la Sociedad Legal de Gananciales de Javier Reyes Mulero y Sol María Valderrama Colón al pago de S 10,000.00 a Noelia Rivera en concepto de daños físicos y $5,000.00 en concepto de angustias mentales y sufrimientos morales. Ordenó, además, el pago de $3,000.00 a Luis M. Parrilla por sus angustias mentales y sufrimientos morales.
+En cuanto a Comspec se refiere, el Tribunal expresó que el demandante no pudo probar que fue negligente ni que fueran dueños del auto que conducía Javier Reyes Mulero. Dijo, además, que "la causa próxima, única y directa del accidente fue la negligencia y falta de cuidado del demandado Javier Reyes Mulero, quien conducía a una velocidad mayor de la que permitía ejercer control adecuado sobre su vehículo".
+Inconformes con el dictamen, tanto la parte allí demandante como la co-demandada Sociedad Legal de Gananciales compuesta por Javier Reyes Mulero y Sol María Valderrama Colón, acudieron en apelaciones separadas ante este Foro. Ambos recursos atacan la validez jurídica de la desestimación de la demanda contra Comspec Unlimited, Inc. En consideración a ello, consolidamos los mismos.
+Los demandantes, en el caso Núm. KLAN-95-01119, la Sociedad de Gananciales Compuesta por Noelia Rivera y Luis M. Parrilla plantearon la comisión de tres errores. Examinémoslos.
+En su primer señalamiento de error se alegó que erró el Tribunal de Instancia al desestimar la demanda contra Comspec Unlimited, Inc. por el fundamento de que no se probó que ésta fuera negligente o dueña del vehículo que provocó el accidente. Este señalamiento está basado en el hecho de que el co-demandado Javier Reyes Mulero alegó en su contestación a la demanda que era empleado de Comspec Unlimited, Inc.; alegación que fue negada por esta Compañía en su contestación a la demanda.
+El señalamiento es inmeritorio. Descansa en meras alegaciones de la demanda. De otra parte, la propia parte demandante acepta en su comparecencia ante este Foro que "[n]o está en controversia que ninguno de los testigos declaró que Comspec UnlimitedInc. era patrono de Javier Reyes Mulero, y dueña del auto que éste conducía al momento de ocurrir el accidente; ni que ésta autorizara su operación por el señor Reyes, ni que estuviera en gestiones de su empleo; y mucho menos que fuere negligente y que ello causara los daños que sufrieron los demandantes”. (Enfasis suplido).
+Era responsabilidad de la parte demandante, como promo vente de la acción, probar las alegaciones de la demanda. No podían descansar en que Reyes Mulero hubiera aceptado que era empleado de Comspec, cuando esta compañía negó en varias ocasiones ser patrono de Reyes. Su alusión a la Regla 62 de las Reglas de Evidencia pasa por alto que esta Regla trata sobre la admisibilidad en juicio de una declaración ofrecida contra una parte cuando tal declaración la hace un agente empleado de la parto. La Regla habla de admisibilidad, no de confxabilidad ni credibilidad ni de operación automática de la Regla. Tampoco tiene el efecto de revertir el peso de la prueba a la co-demandada Comspec.
+III
+En cuanto al segundo error, de que no se aplicó a Comspec la presunción establecida en la Regla 16 de las Reglas de Evidecia de que toda evidencia voluntariamente suprimida resultaría adversa si se ofreciera, es imperativo concluir que es improcedente.
+Comspec Unlimited, Inc. obtuvo sentencia parcial a su favor, de conformidad a la prueba presentada en su "Solicitud de Desestimación y/o Sentencia Sumaria". En la misma argumentó que no existía una causa de acción por daños físicos, sufrimientos morales o angustias mentales a favor de una Sociedad Legal de Gananciales, por lo que ésta carecía de legitimación activa para litigar causas de acción a las que no tiene derecho. Debe recordarse que la demanda fue radicada por la Sociedad Legal de Gananciales y no por sus esposos individualmente. Habiéndose transigido los daños sufridos por el automóvil de dicha Sociedad, procedía dictar sentencia desestimando la demanda.
+Al obtener sentencia parcial a su favor, Comspec Unlimited, Inc. se vio relevada de la obligación de presentar prueba, por lo que no debe entrar en operación la presunción aludida.
+IV
+Por último, los recurrentes Rivera y Parrilla plantean que el foro de instancia incidió al no imponer costas, honorarios de abogado e intereses legales a la parte demandada. Diferimos.
+Los recurrentes citan el inciso (a) de la Regla 44.1 de las de Procedimiento Civil, 32 L.P.R.A. Ap. HI, R. 44.1(a) para argumentar que procede la concesión de costas. Dicho inciso dispone lo siguiente:
+"Las costas le serán concedidas a la parte a cuyo favor se resuelva el pleito o se dicte sentencia en apelación, excepto en aquellos casos en que se dispusiera lo contrario por ley o por estas reglas. Las costas que podrá conceder el tribunal son los gastos incurridos necesariamente en la tramitación de un pleito o procedimiento que la ley ordena o que el tribunal, en su discreción, estima que un litigante debe reembolsar a otro."
+Sin embargo, la parte demandante omite el inciso (b) de la referida Regla 44.1 de las de Procedimiento Civil, que dispone en lo pertinente:
+"(b) Cómo se concederán. La parte que reclame el pago de costas presentará al tribunal y notificará a la parte contraria, dentro del término de diez (10) días contados a partir del archivo en autos de copia de la notificación de la sentencia, una relación o memorándum de todas las partidas de gastos y desembolsos necesarios incurridos durante la tramitación del pleito o procedimiento. En caso de que la sentencia a favor de la parte que reclame las costas sea dictada en apelación o revisión, los diez (10) días para presentar el memorándum de costas se contarán a partir de la devolución del mandato por el tribunal que dicte dicha sentencia." (Enfasis suplido).
+Este Tribunal no está en posición de conceder costas en esta circunstancia. Fue deber de la parte demandante ejercer el debido cuidado profesional y solicitar, de acuerdo con la Regla 44.1 (b) de las de Procedimiento Civil, la concesión de costas al Tribunal de Primera Instancia.
+En cuanto a los honorarios de abogado, estos deben imponerse si es que ha habido temeridad por alguno de los litigantes. La Regla 44.1(d) de las de Procedimiento Civil, 32 L.P.R.A., Ap. Ill, R. 44.1 (d), dispone en lo pertinente: "En caso que cualquier parte haya procedido con temeridad, el tribunal deberá imponerle en su sentencia el pago de una suma por concepto de honorarios de abogado."
+Debe recordarse que "[l]a determinación de si un litigante ha procedido con temeridad descansa en la sana discreción del tribunal sentenciador." La imposición de honorarios tampoco es de operación automática. Debe existir un ponderado examen del tribunal sentenciador para determinar si un litigante fue temerario al llevar el pleito. La ilustrada sala de instancia entendió que no había temeridad. De nuestro análisis del expediente sometido a este Tribunal tampoco se desprende una conducta patente que demostrara temeridad por parte del co-demandado Javier Reyes Mulero.
+Sobre los intereses que devengará una sentencia que ordena el pago de dinero, está claro que éstos se computarán sobre la cuantía de la sentencia desde la fecha en que ésta se dictó. La Regla 44.3 (a), supra, dispone que el tipo de interés será fijado por la Junta Financiera de la Oficina del Comisionado de Instituciones Financieras y, qué tipo de interés se hará constar en la Sentencia. Corresponderá al Tribunal de Primera Instancia disponer sobre el asunto de la cuantía y el tipo de interés. Toda vez que no hubo una determinación de temeridad, los intereses deberán computarse a partir de la fecha en que se dictó la Sentencia.
+Y
+En cuanto al co-demandado Javier Reyes Mulero y los dos errores planteados en el caso Núm. KLAN-95-01182, debemos señalar que se limitan a lo siguiente:
+"A. Erró el Honorable Tribunal de Instancia al desestimar la demanda contra la co-demandada Comspec Unlimited, Inc.
+B. Erró el Honorable Tribunal de Instancia en su aplicación del Derecho."
+Su argumentación se basó en la aplicación de varios principios legales y jurisprudenciales a unos hechos que no fueron probados ante el Tribunal de Primera Instancia. Se alega ante nos, que no se debió desestimar la demanda contra Comspec Unlimited, Inc., porque alegadamente ésta era el patrono de Reyes Mulero. Sobre este aspecto de la controversia nunca se presentó prueba ante el foro de instancia, así como tampoco se ha colocado a este Tribunal en posición de determinar la certeza de esa alegación. Los argumentos de Reyes Mulero son, en consecuencia, inmeritorios.
+<!
+Por todo lo antes expuesto, procede confirmar la sentencia recurrida y se ordena al Tribunal de Primera Instancia a disponer lo referente al pago de intereses sobre la cuantía de la sentencia.
+Notifíquese.
+Así lo pronunció y manda el Tribunal y lo certifica la Secretaria General.
+Aida Ileana Oquendo Graulau
+Secretaria General
+ESCOLIO 97 DTA 96
+1. Raoca Plumbing v. Transworld, 114 D.P.R. 464, 468 (1983).
